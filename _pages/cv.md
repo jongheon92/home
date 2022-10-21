@@ -11,9 +11,11 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* M.S. in Industrial Engineering, Seoul National University (South Korea) : 2017.03 ~ 2019.02
+  * Thesis : Optimizing Microgrid Operation Plan under Islanding Uncertainty
+  * Advisor : Kyungsik Lee
+* B.S. in Industrial Engineering, Seoul National University (South Korea) : 2011.03 ~ 2017.02
+  * Military Service at ROK Air Force : 2013.01 ~ 2015.01
 
 Work experience
 ======
