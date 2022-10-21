@@ -7,11 +7,11 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Jongheon Lee's Homepage"
+title                    : "Jongheon Lee's Hompage"
 title_separator          : "-"
 name                     : &name "Jongheon Lee"
-description              : &description "Ph.D. Candidate at SNU"
-url                      : https://jongheon92.github.io/home # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+description              : &description "personal description"
+url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Jongheon Lee"
   avatar           : "profile.png"
-  bio              : "Ph.D. candidate at SNU"
+  bio              : "Ph.D. Candidate at SNU"
   location         : "Location"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
